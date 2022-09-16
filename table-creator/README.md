@@ -15,12 +15,12 @@ npm install --save table-creator
 ```tsx
 import React, { Component } from 'react'
 
-import MyComponent from 'table-creator'
+import TableCreator from 'table-creator'
 import 'table-creator/dist/index.css'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <TableCreator />
   }
 }
 ```
