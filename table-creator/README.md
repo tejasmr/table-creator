@@ -20,7 +20,7 @@ import 'table-creator/dist/index.css'
 
 class Example extends Component {
   render() {
-    return <TableCreator />
+    return <TableCreator headers={["x"]} data={[{"x":"b"}, {"x":"c"}]}/>
   }
 }
 ```
