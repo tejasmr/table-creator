@@ -2,7 +2,9 @@
 
 > Create tables in react easily
 
-[![NPM](https://img.shields.io/npm/v/table-creator.svg)](https://www.npmjs.com/package/table-creator) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/table-creator.svg)](https://www.npmjs.com/package/table-creator) 
+[![NPM](https://img.shields.io/npm/dt/table-creator.svg)](https://www.npmjs.com/package/table-creator) 
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
